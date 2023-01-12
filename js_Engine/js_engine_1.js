@@ -17,7 +17,9 @@ calculator(add, 3, 5); // 8
 /*
     함수 호츨을 보면 머릿속으로 리턴값으로 대체한다.
     document.querySelector('#header').addEventListener('click', add());
-    => document.querySelector('#header').addEventListener('click', a+b );
+    => document.querySelector('#header').addEventListener('click', a+b ); 
+    // 올바르지 못한 코드 
+    
     올바른 코드 
     document.querySelector('#header').addEventListener('click', add); 
     //함수 호출X 
