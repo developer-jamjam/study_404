@@ -45,8 +45,6 @@ function addUpTo1(n) {
     가장 중요한 것은 큰 그림 ! 
   */
 
-    /*
-        시간 복잡도 시각화 => https://rithmschool.github.io/function-timer-demo/
   /*
     시간 복잡도 시각화 => https://rithmschool.github.io/function-timer-demo/ 
    */
