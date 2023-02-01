@@ -3,7 +3,6 @@
     연산 갯수 세기
 */
 
-
 function addUpTo2(n) { 
     return n * (n + 1) / 2; 
     /*
