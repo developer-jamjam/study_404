@@ -1,5 +1,5 @@
 /* 
-    Big0_chapter_2
+    BigO_chapter_2
     연산 갯수 세기
 */
 
