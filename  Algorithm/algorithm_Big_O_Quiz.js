@@ -73,6 +73,6 @@ function subtotals(array) {
 }
 
 // array값을 받아 subtotalArray 값 셋팅 
-// for loop 안에 for loop  2중 for loop 
+// for loop 안에 for loop  2중 for loop 돌고 
 // subtotalArray값 리턴 
 // O(n²)
